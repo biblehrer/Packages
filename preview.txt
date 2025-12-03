@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Hello World!ihfd
-=======
-Hello World!!!..
->>>>>>> Stashed changes
-=======
-Hello World!!!..
->>>>>>> Stashed changes
+Hello World!
